@@ -2,7 +2,7 @@ module github.com/turbot/steampipe-plugin-azure
 
 go 1.19
 
-replace github.com/turbot/steampipe-plugin-sdk/v5 v5.5.0 => github.com/deepfence/steampipe-plugin-sdk/v5 v5.5.2-0.20231018174057-72873ce1a37b
+replace github.com/turbot/steampipe-plugin-sdk/v5 v5.5.0 => github.com/deepfence/steampipe-plugin-sdk/v5 v5.5.2-0.20231019154051-e1c44ff47c5c
 
 require (
 	github.com/Azure/azure-sdk-for-go v58.0.0+incompatible
